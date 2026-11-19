@@ -1,21 +1,38 @@
 {
   "name": "Thiago Gusmao",
-  "title": "Senior Solutions / Technical Escalation / AI-First Support Engineer",
-  "location": "São Paulo, Brazil (BRT)",
-  "experience_years": 15,
-  "companies": ["Wati", "Gupshup", "Botmaker", "Gi Group / Claro", "HP Enterprise", "Vivo / Telefónica", "Sitel Group"],
-  "markets": ["LATAM (15+ countries)", "AMER", "EMEA"],
-  "languages": ["English", "Portuguese", "Spanish"],
-  "skills_categories": {
-    "AI & Orchestration": ["LLMs", "Agents", "MCP", "RAG", "N8N", "Python"],
-    "Integrations": ["REST", "Webhooks", "WhatsApp Cloud API", "Salesforce", "HubSpot"],
-    "Cloud & Ops": ["AWS", "GCP", "Linux", "Docker", "Git"],
-    "Data": ["SQL", "BigQuery", "Looker", "Grafana"]
-  },
-  "key_impacts": [
-    "40% MTTR reduction (N8N + LLM log parser for WhatsApp Cloud API)",
-    "Tier-2/3 escalations across AMER & EU"
+  "showcase": "Single-page Apple Spec-style career showcase",
+  "goals": [
+    "Embed / showcase on LinkedIn profile",
+    "Shareable URL for recruiters"
   ],
+  "experience_years": 15,
+  "companies": ["Wati", "Gupshup", "Botmaker"],
+  "companies_list_complete": false,
+  "companies_note": "Only the companies named in the project notes. That list is incomplete.",
+  "markets": ["LATAM", "AMER", "EMEA"],
+  "languages": [
+    { "code": "EN", "name": "English" },
+    { "code": "PT", "name": "Portuguese" },
+    { "code": "ES", "name": "Spanish" }
+  ],
+  "key_impacts": ["40% MTTR reduction via N8N+LLM"],
   "compensation_baseline_usd": 4000,
-  "schedule_preference": "BRT 9-5 preferred; EST/CST at higher rate; PST = premium"
+  "compensation_cadence": "month",
+  "schedule_preference": "Flexible by schedule",
+  "sources": [
+    "Experience (15 years), named companies, markets, language codes, and the MTTR impact are the values in the PROJECT.md metrics schema (draft).",
+    "The company list in that schema ends with an ellipsis, so unnamed employers are omitted.",
+    "Language names are the ordinary reading of the EN, PT, and ES codes in that schema.",
+    "Compensation baseline is $4k USD/mo, flexible by schedule (README.md)."
+  ],
+  "absent": {
+    "team_sizes": "Named in README.md. No number is given in README.md or PROJECT.md.",
+    "coworker_counts": "Named in README.md. No number is given in README.md or PROJECT.md.",
+    "skills_count": "The PROJECT.md draft schema shows 40. No skill inventory is listed in README.md or PROJECT.md, so that count is not used.",
+    "skills_categories": "Named in README.md. No categories are listed in README.md or PROJECT.md.",
+    "timezones": "Named in README.md. No timezones are listed in README.md or PROJECT.md.",
+    "roles": "Named in README.md alongside years of experience. No role titles are listed in README.md or PROJECT.md.",
+    "escalations_handled": "README.md names escalations handled as an example impact. No count is given in README.md or PROJECT.md.",
+    "careertaskforce": "Named in README.md and PROJECT.md as a crosswalk for Bot and Cursor handoffs. No definition is in those files."
+  }
 }
