@@ -1,0 +1,21 @@
+{
+  "name": "Thiago Gusmao",
+  "title": "Senior Solutions / Technical Escalation / AI-First Support Engineer",
+  "location": "São Paulo, Brazil (BRT)",
+  "experience_years": 15,
+  "companies": ["Wati", "Gupshup", "Botmaker", "Gi Group / Claro", "HP Enterprise", "Vivo / Telefónica", "Sitel Group"],
+  "markets": ["LATAM (15+ countries)", "AMER", "EMEA"],
+  "languages": ["English", "Portuguese", "Spanish"],
+  "skills_categories": {
+    "AI & Orchestration": ["LLMs", "Agents", "MCP", "RAG", "N8N", "Python"],
+    "Integrations": ["REST", "Webhooks", "WhatsApp Cloud API", "Salesforce", "HubSpot"],
+    "Cloud & Ops": ["AWS", "GCP", "Linux", "Docker", "Git"],
+    "Data": ["SQL", "BigQuery", "Looker", "Grafana"]
+  },
+  "key_impacts": [
+    "40% MTTR reduction (N8N + LLM log parser for WhatsApp Cloud API)",
+    "Tier-2/3 escalations across AMER & EU"
+  ],
+  "compensation_baseline_usd": 4000,
+  "schedule_preference": "BRT 9-5 preferred; EST/CST at higher rate; PST = premium"
+}
